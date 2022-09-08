@@ -1,4 +1,3 @@
-import './App.css'
 import { Dropdown, Button } from "@fuel-ui/react";
 
 function App() {
